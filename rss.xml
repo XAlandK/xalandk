@@ -16,6 +16,11 @@
     <category>Sky News</category>
     <ttl>1</ttl>
     
+    <!-- nafsy xotan bkuzhn -->
+    <item>
+      <enclosure url="https://i.imgur.com/RBmzYu5.jpg" length="0" type="image/jpeg"/>
+    </item>
+    
     <!--Ema Kam ta3atin boya betaqatin -->
     <item>
       <enclosure url="https://i.imgur.com/R9uaHIk.jpg" length="0" type="image/jpeg"/>
