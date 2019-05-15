@@ -27,7 +27,7 @@
         "received_events_url": "https://api.github.com/users/allenwong/received_events",
         "type": "User",
         "site_admin": false
-      },
+      }, 
       "html_url": "https://github.com/allenwong/30DaysofSwift",
       "description": "A self-taught project to learn Swift.",
       "fork": false,
