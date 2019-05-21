@@ -100,7 +100,7 @@
     {
       "id": 58007306,
       "node_id": "MDEwOlJlcG9zaXRvcnk1ODAwNzMwNg==",
-      "name": "15DaysofAnimationsinSwift",
+      "name": "TEST 2",
       "full_name": "larrynatalicio/15DaysofAnimationsinSwift",
       "private": false,
       "owner": {
@@ -123,8 +123,8 @@
         "type": "User",
         "site_admin": false
       },
-      "html_url": "https://github.com/larrynatalicio/15DaysofAnimationsinSwift",
-      "description": "A project to learn animations.",
+      "html_url": "https://apple.com/",
+      "description": "Description of Test 2",
       "fork": false,
       "url": "https://api.github.com/repos/larrynatalicio/15DaysofAnimationsinSwift",
       "forks_url": "https://api.github.com/repos/larrynatalicio/15DaysofAnimationsinSwift/forks",
