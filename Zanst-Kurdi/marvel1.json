@@ -5,7 +5,7 @@
     {
       "id": 51648174,
       "node_id": "MDEwOlJlcG9zaXRvcnk1MTY0ODE3NA==",
-      "name": "Test",
+      "name": ".",
       "full_name": "allenwong/30DaysofSwift",
       "private": false,
       "owner": {
@@ -28,8 +28,8 @@
         "type": "User",
         "site_admin": false
       }, 
-      "html_url": "https://github.com/",
-      "description": "😁😁😁😁😁",
+      "html_url": "https://google.com/",
+      "description": ".",
       "fork": false,
       "url": "https://api.github.com/repos/allenwong/30DaysofSwift",
       "forks_url": "https://api.github.com/repos/allenwong/30DaysofSwift/forks",
@@ -100,7 +100,7 @@
     {
       "id": 58007306,
       "node_id": "MDEwOlJlcG9zaXRvcnk1ODAwNzMwNg==",
-      "name": "TEST 2",
+      "name": ".",
       "full_name": "larrynatalicio/15DaysofAnimationsinSwift",
       "private": false,
       "owner": {
@@ -123,8 +123,8 @@
         "type": "User",
         "site_admin": false
       },
-      "html_url": "https://apple.com/",
-      "description": "Description of Test 2",
+      "html_url": "https://google.com/",
+      "description": ".",
       "fork": false,
       "url": "https://api.github.com/repos/larrynatalicio/15DaysofAnimationsinSwift",
       "forks_url": "https://api.github.com/repos/larrynatalicio/15DaysofAnimationsinSwift/forks",
