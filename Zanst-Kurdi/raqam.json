@@ -1,21 +1,19 @@
 {
-  "total_count": 2495,
-  "incomplete_results": false,
   "items": [
     {
       "name": "چەناڵی ناوەندی هەژان",
-      "number": "0770 593211211212",
-      "description": "بۆ فیكر و مەعنەویەت"
+      "number": "0770",
+      "supervisor": "بۆ فیكر و مەعنەویەت"
     },
     {
       "name": "SECONDDD",
-      "number": "https://www.youtube.com/channel/UCRqaPEkAhRWQIgmNbLKIAyQ",
-      "description": "بۆ فیكر و مەعنەویەت"
+      "number": "0770",
+      "supervisor": "بۆ فیكر و مەعنەویەت"
     },
     {
       "name": "چەناڵی ناوەندی هەژان",
-      "number": "https://www.youtube.com/channel/UCRqaPEkAhRWQIgmNbLKIAyQ",
-      "description": "بۆ فیكر و مەعنەویەت"
+      "number": "0770",
+      "supervisor": "بۆ فیكر و مەعنەویەت"
     }
   ]
 }
